@@ -1,4 +1,4 @@
-#Real-time Depth Estimation with MiDaS
+Real-time Depth Estimation with MiDaS
 This repository contains a Python script for real-time depth estimation using the MiDaS (Monocular Depth Estimation in the Wild with Convolutional Networks) model. The script captures video input from a webcam in real-time, processes each frame through the MiDaS model, and displays the original video along with the corresponding depth map.
 
 Features
